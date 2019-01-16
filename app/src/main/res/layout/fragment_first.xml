@@ -13,8 +13,10 @@
 
 
     <EditText
+        android:id="@+id/edtInput"
         android:hint="input user name"
         android:layout_width="match_parent"
+        android:layout_marginEnd="10dp"
         android:layout_height="wrap_content" />
 
 </FrameLayout>
