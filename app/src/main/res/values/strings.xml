@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prTest3.0.1</string>
+    <string name="input_username">input username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
