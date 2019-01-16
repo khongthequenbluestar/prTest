@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        Log.d("anhduc", "onResume");
+        Log.d("anhduc", "onResume");///fdyugiojp[
     }
 
     @Override
