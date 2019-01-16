@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         getFragmentManager().beginTransaction().add(R.id.llCommon,  new  FirstFragment(),"").commit();
         Log.d("anhduc", "onCreate");
-
+        Log.e("anhduc", "onCreate");
     }
 
 
