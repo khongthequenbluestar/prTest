@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.edtInput).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+///fgyugiopo[p]\787
             }
         });
     }
